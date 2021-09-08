@@ -36,7 +36,7 @@ Helemaal responsive maar weet dit nog niet zeker want weet nog niet zo goed want
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-Ik ga de website maken van informatiearchictectuur. Dit vak had ik vorig jaar
+Ik ga de website van de NS maken.
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
