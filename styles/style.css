@@ -1,5 +1,158 @@
 /* CSS Document */
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing:border-box;
 }
+
+/* CUSTOM PROPPERTIES */
+
+
+:root{
+--geel: #ffc915;
+
+--blauw: #003082;
+
+--lichtBlauwButton: #0063d3;
+
+--wit: #ffffff;
+
+--grijsBlokje: #fdfdfd;
+
+--grijsAchtergrond: #e6e6e9;
+
+}
+
+
+body {
+background-color:var(--geel);
+margin: 0;
+padding: 0;
+}
+
+/* img:nth-of-type(1){
+display:block;
+position: fixed;
+left: 40%;
+width: 20%;
+
+margin:0;
+
+
+}
+
+img:nth-of-type(2){
+
+  margin-top:auto;
+  size: 35px 35px;
+}
+
+p:nth-of-type(1){
+margin:0;
+font-size: 10px;
+font-family: NS Sans,Segoe UI,Myriad,Verdana,sans-serif;
+color: var(--blauw);
+
+position:fixed;
+right: 1.3em;
+top: 4em;
+
+} */
+
+
+header{
+
+display: flex;
+justify-content: space-between;
+background-color:var(--wit);
+padding: 0.8em;
+
+}
+
+
+header img:nth-of-type(1){
+  height: 20px;
+  }
+
+header img:nth-of-type(2){
+height: 27px;
+
+}
+header img:nth-of-type(3){
+height: 36px;
+}
+
+p{
+font-family: NS Sans,Segoe UI,Myriad,Verdana,sans-serif;
+color: var(--blauw);
+font-size: 12px;
+font-weight: normal;
+}
+
+
+section{
+display: flex;
+justify-content: space-between;
+margin:0;
+
+}
+section p:nth-of-type(1){
+  padding-left: 10px;
+  position: fixed;
+  top: 33px;
+}
+
+section p:nth-of-type(2){
+padding-right: -3px;
+position:fixed;
+top: 29px;
+right: 10px;
+padding-top: 4px;
+}
+
+section:nth-of-type(2){
+display:flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+padding-top: 40px;
+}
+
+section:nth-of-type(2) input:nth-of-type(1){
+margin-bottom:3px;
+width: 320px;
+height: 45px;
+border: none;
+border-radius: 0.25em;
+
+}
+
+section:nth-of-type(2) input:nth-of-type(2){
+
+  width: 320px;
+  height: 45px;
+  border: none;
+  border-radius: 0.25em;
+
+
+}
+
+section:nth-of-type(3) img{
+transform: rotate(90deg);
+position: fixed;
+right: 30px;
+top: 107px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
 
