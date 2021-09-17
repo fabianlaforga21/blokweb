@@ -64,7 +64,7 @@ https://www.ns.nl/
 <img src="images/FRONTED- DEVELOPMENT.png" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+<img src="" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -85,20 +85,23 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| student 1 (ik)                     | student 2          | student 3    | student 4        |
+| JS transformeren geleerd           | ---                | ---          | ---              |
+| Iconen grootte                     | en dit             | en ik dit    | en dan ik dat    |
+| Buttons echt laten werken          | dit als er tijd is | nog een punt | dit wil ik zeker |
+| CSS schoner en leesbaarder make    | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Het eerste punt van wat ik heb meegenomen van de meeting was dat ik de opdracht niet goed snapte en de html moet kloppen en sommige buttons ook echt moeten werken en niet alleen maar een image zijn.
+ 
+- Het tweeede punt is dat ik geleerd heb hoe ik de textje goed onder het icoontje te plaatsen zonder gebruik te maken van postition:fixed.
+ 
+- Het derde punt van wat ik heb meegenomen is dat is mijn menu button ook echt moet laat transformeren als je erop klikt net zoals het in het echt zo is. Sanne had een hele codepen waar alle CSS en JS is staat om dat menu goed te laten tranformen wat toch wel heel erg handig is voor mij :).
+ 
+- Ook heb ik meegenomen uit de meeting dat je alle lengtes in em moet zetten omdat je dan het goed mee kan schalen.
 
 </details>
 
