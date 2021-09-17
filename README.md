@@ -76,8 +76,9 @@ https://www.ns.nl/
 
 <details>
 <summary>Ik heb veel huiswerkopdrachten gemaakt alleen veel zijn me ook niet gelukt maar door het in de les te bespreken zijn ze toch nog gelukt. Ik ben begonnen met mijn HTML van de basis van mijn CSS, en ga volgende week beginnen met de content van mijn site.
- <img src="" width="375px" alt="breakdown van nog een dynamisch deel">
+ <img src="Screenshot 2021-09-17 at 11.27.58.png" width="375px" alt="breakdown van nog een dynamisch deel">
  Dit is een foto van mijn Humpty die totaal niet lukte waar ik ook veel stress kreeg van thuis. :)
+ Gellukig kon ik in de les meedoen met de uitwerkingen en is hij zo mij toch wel gelukt.
 
  
  </summary>
