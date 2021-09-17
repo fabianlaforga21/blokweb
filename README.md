@@ -76,8 +76,7 @@ https://www.ns.nl/
 
 <details>
 <summary>Ik heb veel huiswerkopdrachten gemaakt alleen veel zijn me ook niet gelukt maar door het in de les te bespreken zijn ze toch nog gelukt. Ik ben begonnen met mijn HTML van de basis van mijn CSS, en ga volgende week beginnen met de content van mijn site.
- <img src="<img src="images/FRONTED- DEVELOPMENT.png" width="375px" alt="breakdown van een dynamisch deel">
-" width="375px" alt="breakdown van een dynamisch deel">
+ <img src="" width="375px" alt="breakdown van nog een dynamisch deel">
  Dit is een foto van mijn Humpty die totaal niet lukte waar ik ook veel stress kreeg van thuis. :)
 
  
