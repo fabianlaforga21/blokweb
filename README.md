@@ -54,7 +54,7 @@ https://www.ns.nl/
 
 ## Breakdownschets (week 1)
 
-<details open>
+<details>
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
@@ -117,21 +117,22 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Voortgang 2 (week 3)
 
-<details>
-<summary>uitwerken voor 2e voortgang</summary>
+<details open>
+<summary>Ik was druk bezig in de hele week ook met andere vakken dus heb alleen de laatste dag aan mijn website gewerkt. Hier merkte ik toch wel dat ik tegen wat meer problemen aanliep aangezien de code die ik nodig had wat moeilijker werd. Ik ben wel benieuwd om dit te vragen op vrijdag en dan de oplossingen te horen</summary>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+ Wat dus fout ging op mijn website was dat ik 1 achtergrond foto niet goed in verhouding kreeg en ook niet lang genoeg. Ook had ik nog een vraag over hoe ik een stukje van mijn website moest doen en wat voor code ik daar voor nodig had
+<img src="Screenshot 2021-09-17 at 11.27.58.png" width="375px" alt="foto van website waarbij foto niet goede height kreeg">
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Student 1 (ik):
+ Wat voor code ik moest gebruiken voor een specifiek deel van mijn website en hoe ik een img meer height kon geven zonder dat de foto uit de verhouding ging.
+ Student 2: Hoe je een header maakt en een hamburger menu en hoe je die 2 goed centreert.
+ Student 3: Hoe je slideshows maakt met automatische transities.
+ Student 4: wil meeluisteren met alles
 
 
 ### Verslag van meeting
