@@ -123,7 +123,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
  Wat dus fout ging op mijn website was dat ik 1 achtergrond foto niet goed in verhouding kreeg en ook niet lang genoeg. Ook had ik nog een vraag over hoe ik een stukje van mijn website moest doen en wat voor code ik daar voor nodig had
-<img src="Screenshot 2021-09-17 at 11.27.58.png" width="375px" alt="foto van website waarbij foto niet goede height kreeg">
+<img src="Screenshot 2021-09-23 at 14.17.18.png" width="375px" alt="foto van website waarbij foto niet goede height kreeg">
 
 ### Agenda voor meeting
 samen met je groepje opstellen
