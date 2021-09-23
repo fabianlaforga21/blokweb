@@ -218,7 +218,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 
 
-
+ 
 ## Eindgesprek (week 5)
 
 <details>
