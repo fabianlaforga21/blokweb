@@ -64,7 +64,7 @@ https://www.ns.nl/
 <img src="images/FRONTED- DEVELOPMENT.png" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
-<img src="" width="375px" alt="breakdown van nog een dynamisch deel">
+
 
 </details>
 
@@ -76,7 +76,7 @@ https://www.ns.nl/
 
 <details>
 <summary>Ik heb veel huiswerkopdrachten gemaakt alleen veel zijn me ook niet gelukt maar door het in de les te bespreken zijn ze toch nog gelukt. Ik ben begonnen met mijn HTML van de basis van mijn CSS, en ga volgende week beginnen met de content van mijn site.
- <img src="Screenshot 2021-09-17 at 11.27.58.png" width="375px" alt="breakdown van nog een dynamisch deel">
+ <img src="images/Screenshot 2021-09-17 at 11.27.58.png" width="375px" alt="breakdown van nog een dynamisch deel">
  Dit is een foto van mijn Humpty die totaal niet lukte waar ik ook veel stress kreeg van thuis. :)
  Gellukig kon ik in de les meedoen met de uitwerkingen en is hij zo mij toch wel gelukt.
 
@@ -123,7 +123,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
  Wat dus fout ging op mijn website was dat ik 1 achtergrond foto niet goed in verhouding kreeg en ook niet lang genoeg. Ook had ik nog een vraag over hoe ik een stukje van mijn website moest doen en wat voor code ik daar voor nodig had
-<img src="Screenshot 2021-09-23 at 14.17.18.png" width="375px" alt="foto van website waarbij foto niet goede height kreeg">
+<img src="images/Screenshot 2021-09-23 at 14.17.18.png" width="375px" alt="foto van website waarbij foto niet goede height kreeg">
 
 ### Agenda voor meeting
 samen met je groepje opstellen
