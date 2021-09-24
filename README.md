@@ -137,10 +137,11 @@ Student 1 (ik):
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
+ Deze week had ik een meeting met de student assistenten en die hebben mij ook goed geholpen met mijn vragen.
 
-- punt 1
-- punt 2
-- nog een punt
+- Punt 1: Mijn vraag die ik had was hoe ik een img groter en kleiner moest maken en dat heb ik geleerd nu door hun.
+- Punt 2: Ook hebben ze me geholpen om mijn HTML schoner te maken want ik wist niet dat als je een section gebruikt je ook verplicht bent om een h1 te gebruiken
+- Punt 3: Ze hebben me geleerd om niet meer position fixed te gebruiken omdat dat soms onhandig is voor andere elementen eromheen.
 - ...
 
 </details>
