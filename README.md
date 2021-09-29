@@ -117,7 +117,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Voortgang 2 (week 3)
 
-<details open>
+<details>
 <summary>Ik was druk bezig in de hele week ook met andere vakken dus heb alleen de laatste dag aan mijn website gewerkt. Hier merkte ik toch wel dat ik tegen wat meer problemen aanliep aangezien de code die ik nodig had wat moeilijker werd. Ik ben wel benieuwd om dit te vragen op vrijdag en dan de oplossingen te horen</summary>
 
 ### Stand van zaken
@@ -152,7 +152,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Toegankelijkheidstest (week 4)
 
-<details>
+<details open>
 <summary> Vandaag gingen we de toegankelijkheid testen van onze website's die we gekozen hebben. Hierbij moesten we een aantaal verschillende testen doen, die de toegangkelijkheid van de website testten. De eerste test was dat je een machine op je arm kreeg en toen kreeg je het gevoel alsof je parkinson had en moest je zelf uitvogelen hoe je makkelijk door je eigen website kon navigeren. We hebben ook testen gedaan met screenreaders, sechtzienden en kleurenblinden.</summary>
 
 ### Bevindingen
