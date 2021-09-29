@@ -153,33 +153,29 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Toegankelijkheidstest (week 4)
 
 <details>
-<summary>uitwerken na test in 8e voortgang</summary>
+<summary> Vandaag gingen we de toegankelijkheid testen van onze website's die we gekozen hebben. Hierbij moesten we een aantaal verschillende testen doen, die de toegangkelijkheid van de website testten. De eerste test was dat je een machine op je arm kreeg en toen kreeg je het gevoel alsof je parkinson had en moest je zelf uitvogelen hoe je makkelijk door je eigen website kon navigeren. We hebben ook testen gedaan met screenreaders, sechtzienden en kleurenblinden.</summary>
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
+ De enige test waar ik echt moeite mee had was de parkinson test want daar was het echt heel moeilijk om iets te kunnen typen . De muis besturen was wel moeilijk maar als ik me goed focusde lukte het ook wel. Maar wat ik dus het geleerd hiervan is dat je goed moet kunnen tabben tussen alle buttons en ook een duidelijk focus state moet hebben zodat de gebruiker weet waar diegene is.
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Parkinson Test
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+ De bevinding die ik uit deze test heb gehaald is dat ik elke img ook een button moet geven zodat iemand met bijv. parkinson makkelijk door de website kan tabben, omdat dat bijna het enige is wat hun kunnen doen om een website echt makkelijk en goed te kunnen gebruiken.
 
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Kleurenblind & Slecht ziende test
+ 
+ Met deze test merkte ik eigenlijk heel weinig verschil. Waarschijnlijk komt dat ook omdat ik natuurlijk niet echt kleurenblind of slechtziend ben maar alleen alsof doe met de brillen op. Ik merkte wel dat het iets moeilijker was om bepaalde focus en active states te zien omdat dat natuurlijk kleine verschillen zijn. Dus misschien een bevinding die ik hieruit kan halen is dat ik de active state en andere states extra duidelijk maak voor de gebruiker zodat ook slechtziende en kleurenblinden de verschillen tussen states kunnen zien 
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Screen reader Test
+ 
+ Deze test snapte ik eerst niet maar uiteindelijk bleek hij toch wel handig te zijn. Ik heb geleerd wat bijv. alt betekent dat achter een element staat want daar keek ik nooit van op. Maar nu weet ik dus dat ik die goed moet invullen zodat de screenreaders het duidelijk voor kunnen lezen, dus dat was mijn bevinding uit deze test.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+
+
 
 </details>
 
@@ -190,20 +186,18 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 ## Voortgang 3 (week 4)
 
 <details>
-<summary>uitwerken voor 3e voortgang</summary>
+<summary>Ik heb na de toegangkelijkheids testen wel wat nog aan mijn site kunnen werken dus dat was toch wel erg fijn om die tijd te hebben. Helaas loop ik nog wel een beetje achter en moet ik deze week nog wel ff doorwerken aan mijn website.</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Waar ik vooral vastliep deze week is hoe ik een bepaald stukje van mijn site moest coderen, omdat die er toch wel heel erg moeilijk uitzag, maar gelukkih hebben we op vrijdag weer gesprekken waar ik dit soort dingen kan vragen
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Student 1 (ik):
+ Ik vroeg me af wat voor HTML & CSS ik kon gebruiken bij een bepaald stukje voor mijn website. Ook gebruikt mijn site een soort van liochte schaduw over een van de img heen en ik ben benieuwd hoe ik dat kan namaken.
+ 
+ Student 2:
 
 
 ### Verslag van meeting
