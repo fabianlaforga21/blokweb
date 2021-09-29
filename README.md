@@ -189,7 +189,7 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 <summary>Ik heb na de toegangkelijkheids testen wel wat nog aan mijn site kunnen werken dus dat was toch wel erg fijn om die tijd te hebben. Helaas loop ik nog wel een beetje achter en moet ik deze week nog wel ff doorwerken aan mijn website.</summary>
 
 ### Stand van zaken
-Waar ik vooral vastliep deze week is hoe ik een bepaald stukje van mijn site moest coderen, omdat die er toch wel heel erg moeilijk uitzag, maar gelukkih hebben we op vrijdag weer gesprekken waar ik dit soort dingen kan vragen
+Waar ik vooral vastliep deze week is hoe ik een bepaald stukje van mijn site moest coderen, omdat die er toch wel heel erg moeilijk uitzag, maar gelukkih hebben we op vrijdag weer gesprekken waar ik dit soort dingen kan vragen. <img src="images/Screenshot 2021-09-30 at 00.16.45.png" width="375px" alt="foto van website waarbij foto niet goede height kreeg">
 
 ### Agenda voor meeting
 samen met je groepje opstellen
