@@ -195,7 +195,7 @@ Waar ik vooral vastliep deze week is hoe ik een bepaald stukje van mijn site moe
 samen met je groepje opstellen
 
 Student 1 (ik):
- Ik vroeg me af wat voor HTML & CSS ik kon gebruiken bij een bepaald stukje voor mijn website. Ook gebruikt mijn site een soort van liochte schaduw over een van de img heen en ik ben benieuwd hoe ik dat kan namaken.
+ Ik vroeg me af wat voor HTML & CSS ik kon gebruiken bij een bepaald stukje voor mijn website. Ook gebruikt mijn site een soort van lichte schaduw over een van de img heen en ik ben benieuwd hoe ik dat kan namaken.
  
  Student 2:
 
