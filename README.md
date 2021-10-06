@@ -13,7 +13,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>ik weet nog eigenlijk niks van het vak en eerst ook niet wat het inhield. daarna heb ik gevraagd aan mijn mede studenten en zij zeiden dat het op internetstandaarden leek. Ik ben wel benieuwd naar wat ik allemaal ga leren alleen kijk er toch wel een beetje tegenop want ben niet zo goed in coderen.</summary>
 
 ### Auteur:
 Sanne 't Hooft (vervangen door jouw naam)
@@ -33,7 +33,7 @@ Helemaal responsive maar weet dit nog niet zeker want weet nog niet zo goed want
 ## Je website
 
 <details>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>Ik ben aan het zoeken om een makkelijke website te vinden om na te maken. Ik heb uiteindelijk de NS site gekozen omdat die er op het eerste oog niet erg moeilijk uitziet, en omdat ik niet super goed ben in coderen wil ik graag een makkelijke site :).</summary>
 
 ### Je opdracht:
 Ik ga de website van de NS maken.
@@ -55,7 +55,7 @@ https://www.ns.nl/
 ## Breakdownschets (week 1)
 
 <details>
-<summary>uitwerken na afloop 2e werkgroep</summary>
+<summary>We hebben in de les de breakdownschets gemaakt en eerst dacht ik dat het onnodig werk was en dat ik alle HTML wil uit mijn hoofd wist en dat het zonde van mijn tijd was. Maar nadat ik de schets heb gemaakt zijn dingen voor mij veel duidelijker geworden en de schets heeft me geholpen om een begin te maken aan mijn HTML schrijven.</summary>
 
 ### de hele pagina: 
 <img src="images/FRONTED- DEVELOPMENT.png" width="375px" alt="breakdown van de hele pagina">
@@ -93,9 +93,9 @@ samen met je groepje opstellen
 
 | student 1 (ik)                     | student 2          | student 3    | student 4        |
 | JS transformeren geleerd           | ---                | ---          | ---              |
-| Iconen grootte                     | en dit             | en ik dit    | en dan ik dat    |
+| Iconen grootte maken                     | en dit             | en ik dit    | en dan ik dat    |
 | Buttons echt laten werken          | dit als er tijd is | nog een punt | dit wil ik zeker |
-| CSS schoner en leesbaarder make    | ...                | ...          | ...              |
+| CSS schoner en leesbaarder maken    | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
@@ -203,9 +203,9 @@ Student 1 (ik):
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
+- Ik heb geleerd hoe ik een gloed maak over een foto, alleen helaas ging ik dit proberen en had ik niet de juiste vraag gesteld :(.
+- Ook heb ik geleerd hoe je een background img gebruikt en hoe je die in een button doet want ik wist eerst niet hoe ik dit zou moeten doen.
+- Ik heb geleerd hoe ik Grid ik de praktijd kan toepassen en hoe ik dit voor mijn NS site gebruik.
 - ...
 
 </details>
@@ -239,8 +239,18 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://codepen.io/shooft/pen/KKqYPpr
+2. https://codepen.io/fabianlaforga21/pen/OJgGPdj?editors=1100
+3. https://extract.pics/
+4. https://www.generacodice.com/en/articolo/289291/What-is-the-difference-between-:focus-and-:active
+5. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+6. https://www.w3schools.com/cssref/pr_background-position.asp
+7. https://www.w3schools.com/cssref/pr_background-image.asp
+8. https://codepen.io/fabianlaforga21/pen/YzQEZKZ
+9. https://www.w3schools.com/cssref/pr_pos_z-index.asp
+10. https://www.codegrepper.com/search.php?q=li%20without%20bullet
+11. https://stackoverflow.com/questions/4137255/checkboxes-in-web-pages-how-to-make-them-bigger
+12. https://developer.mozilla.org/en-US/docs/Web/CSS/:not
+ En nog veel meer linkjes maar dit zijn wel bijna alle sites waar ik de informatie uit heb en kan de andere niet meer vinden :)
 
 </details>
