@@ -220,7 +220,9 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>Helaas heb ik mijn site niet helemaal afgekregen omdat ik erg veel tijd heb verloren aan kleine dingen die niet lukten en daar bleef ik dan ook in hangen helaas. De vormgeving is wel al best prima gelukt alleen de responsivesness en de surface plane heb ik nog niet helemaal goed gemaakt.Maar voor mezelf ben ik best wel blij met het resultaat omdat ik toch wel veel geleerd heb ik het process en ik voor dit vak me niet kon voorstellen dat ik ook maar in de buurt kon komen om een replica te maken van de NS site.</summary>
 
 ### Stand van zaken
-Bijv. een van de stukjes waar ik uren lang mee aan het kloten was het stukje wat je ziet van de foto hiernaast.Ik kreeg ze niet goed naastelkaar en onderelkaar en ook de schaduw werkte de hele tijd niet mee. <img src="images/vertrekenaankomst" width="375px" alt="">
+Bijv. een van de stukjes waar ik uren lang mee aan het kloten was het stukje wat je ziet van de foto hiernaast.Ik kreeg ze niet goed naastelkaar en onderelkaar en ook de schaduw werkte de hele tijd niet mee. <img src="images/vertrekenaankomst.png" width="375px" alt="">
+ 
+ Waar ik wel dan blij mee ben is de vormgeving van de mijn 2de pagina, eerst wist ik niet waar ik moest beginnen maar toen ik eraan begon ging het best prima en lijkt het ook nog is best wel erg op de pagina van de NS. <img src="images/2destie.png" width="375px" alt=""> 
 
 ### Screenshot(s)
 
