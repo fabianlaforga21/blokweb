@@ -225,8 +225,12 @@ Bijv. een van de stukjes waar ik uren lang mee aan het kloten was het stukje wat
  Waar ik wel dan blij mee ben is de vormgeving van de mijn 2de pagina, eerst wist ik niet waar ik moest beginnen maar toen ik eraan begon ging het best prima en lijkt het ook nog is best wel erg op de pagina van de NS. <img src="images/2destie.png" width="375px" alt=""> 
 
 ### Screenshot(s)
+<img src="images/Site1Deel1.png" width="375px" alt="">                       <img src="images/Site2Deel1.png" width="375px" alt="">
+ <img src="images/Site1Deel2.png" width="375px" alt="">                      <img src="images/Site2Deel2.png" width="375px" alt="">
+ 
+ 
 
-hier screenshot(s) van je eindresultaat
+ 
 
 </details>
 
