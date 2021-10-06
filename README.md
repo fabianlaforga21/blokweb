@@ -152,7 +152,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Toegankelijkheidstest (week 4)
 
-<details open>
+<details >
 <summary> Vandaag gingen we de toegankelijkheid testen van onze website's die we gekozen hebben. Hierbij moesten we een aantaal verschillende testen doen, die de toegangkelijkheid van de website testten. De eerste test was dat je een machine op je arm kreeg en toen kreeg je het gevoel alsof je parkinson had en moest je zelf uitvogelen hoe je makkelijk door je eigen website kon navigeren. We hebben ook testen gedaan met screenreaders, sechtzienden en kleurenblinden.</summary>
 
 ### Bevindingen
@@ -216,7 +216,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
  
 ## Eindgesprek (week 5)
 
-<details>
+<details open>
 <summary>Helaas heb ik mijn site niet helemaal afgekregen omdat ik erg veel tijd heb verloren aan kleine dingen die niet lukten en daar bleef ik dan ook in hangen helaas. De vormgeving is wel al best prima gelukt alleen de responsivesness en de surface plane heb ik nog niet helemaal goed gemaakt.Maar voor mezelf ben ik best wel blij met het resultaat omdat ik toch wel veel geleerd heb ik het process en ik voor dit vak me niet kon voorstellen dat ik ook maar in de buurt kon komen om een replica te maken van de NS site.</summary>
 
 ### Stand van zaken
