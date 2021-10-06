@@ -235,7 +235,7 @@ hier screenshot(s) van je eindresultaat
 ## Bronnenlijst
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
+<summary>Helaas heb ik mijn site niet helemaal afgekregen omdat ik erg veel tijd heb verloren aan kleine dingen die niet lukten en daar bleef ik dan ook in hangen helaas. De vormgeving is wel al best prima gelukt alleen de responsivesness en de surface plane heb ik nog niet helemaal goed gemaakt.</summary>
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
