@@ -217,7 +217,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Eindgesprek (week 5)
 
 <details>
-<summary>uitwerken voor eindgesprek</summary>
+<summary>Helaas heb ik mijn site niet helemaal afgekregen omdat ik erg veel tijd heb verloren aan kleine dingen die niet lukten en daar bleef ik dan ook in hangen helaas. De vormgeving is wel al best prima gelukt alleen de responsivesness en de surface plane heb ik nog niet helemaal goed gemaakt.Maar voor mezelf ben ik best wel blij met het resultaat omdat ik toch wel veel geleerd heb ik het process en ik voor dit vak me niet kon voorstellen dat ik ook maar in de buurt kon komen om een replica te maken van de NS site.</summary>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
@@ -235,7 +235,7 @@ hier screenshot(s) van je eindresultaat
 ## Bronnenlijst
 
 <details open>
-<summary>Helaas heb ik mijn site niet helemaal afgekregen omdat ik erg veel tijd heb verloren aan kleine dingen die niet lukten en daar bleef ik dan ook in hangen helaas. De vormgeving is wel al best prima gelukt alleen de responsivesness en de surface plane heb ik nog niet helemaal goed gemaakt.</summary>
+<summary>Ik heb super veel gebruik gemaakt van al deze bronnen, ze zijn heel erg buhulpzaam geweest en ik weet wel zeker dat als ik niks kon opzoeken dat ik een hele magere website had.</summary>
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
