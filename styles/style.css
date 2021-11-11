@@ -1,0 +1,1070 @@
+/* CSS Document */
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+/* CUSTOM PROPPERTIES */
+
+
+:root {
+  --geel: #ffc915;
+
+  --blauw: #003082;
+
+  --lichtBlauwButton: #0063d3;
+
+  --wit: #ffffff;
+
+  --grijsBlokje: #fdfdfd;
+
+  --grijsAchtergrond: #e6e6e9;
+
+  --footertekst: #878887
+}
+
+@font-face {
+  font-family: "nsfont";
+  src: url("ns-sans.ttf"), format("ttf");
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/******************************/
+/* Ik heb geprobeerd om dit font te gebruiken van de NS zelf gemaakt maar dat is me niet gelukt. Ook met de student-assistent lukte het niet */
+/******************************/
+
+.eenpagina {
+  height: 100%;
+  background: linear-gradient(180deg, #ffc915 50%, #e6e6e9 50%);
+  margin: 0;
+  padding: 0;
+}
+
+/******************************/
+/* HEADER */
+/******************************/
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--wit);
+  padding: 0.8em;
+  flex-grow: var(--wit);
+  position: relative;
+  z-index: 1000;
+}
+
+
+header button {
+  position: relative;
+
+  appearance: none;
+  background: none;
+  border: none;
+  font-family: Arial;
+  color: var(--blauw);
+  font-size: 0.75em;
+  font-weight: normal;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.01em;
+
+  margin: 0px;
+  padding: 0px;
+}
+
+header button img {
+  height: 2.25em;
+  width: auto;
+}
+
+header a img {
+  width: 4em;
+  height: auto;
+}
+
+header button:nth-of-type(1) {
+  position: relative;
+  top: -0.2em;
+  left: -0.5em;
+}
+
+header a img:focus,
+header a img:active {
+  border: 1px var(--blauw) solid;
+  border-spacing: 5px;
+}
+
+header button:focus head button:active {
+  border-radius: 4px;
+  border: 1px solid #0063d3;
+  box-shadow: 0 0 0 1px #0063d3, 0 2px 28px rgb(0 0 0 / 10%);
+}
+
+header button img:hover header button img:active {
+  border-radius: 4px;
+  border: 1px solid #0063d3;
+  box-shadow: 0 0 0 1px #0063d3, 0 2px 28px rgb(0 0 0 / 10%);
+}
+
+header button:nth-of-type(2):active,
+header button:nth-of-type(2):focus {
+  border-radius: 4px;
+  border: 1px solid #0063d3;
+  box-shadow: 0 0 0 1px #0063d3, 0 2px 28px rgb(0 0 0 / 10%);
+}
+
+
+.overlay {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  background-color: var(--wit);
+  left: 0;
+  top: 0;
+  z-index: -1;
+  transform: translateY(-100%);
+  transition: 350ms;
+  padding: 80px 21px 0 21px;
+
+
+}
+
+.menuOpen .overlay {
+  transform: translateY(0);
+
+}
+
+.overlay article {
+  display: flex;
+  justify-content: space-between;
+}
+
+.overlay article p {
+  font-weight: 700;
+  color: var(--blauw);
+  font-size: 1.2em;
+}
+
+.overlay .buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.overlay .buttons button {
+  margin-top: 2em;
+  font-size: 1em;
+  padding: 0.8em 1.3em;
+
+  background-color: #f0f0f2;
+  color: #0063d3;
+  box-shadow: inset 0 -0.125rem 0 #e6e6e9;
+  border-radius: 0.25em;
+}
+
+.overlay section .text {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1em;
+}
+
+
+header>section>section.text {
+  margin-top: 2em;
+  color: var(--blauw);
+  padding: 0.5em;
+  font-size: 1em;
+}
+
+header>section>section.text>p {
+  font-size: 1.2em;
+}
+
+
+
+/******************************/
+/* ARTICLE VAN EN NAAR TEKST */
+/******************************/
+
+
+
+
+/******************************/
+/* PLACEHOLDER */
+/******************************/
+
+main>section:nth-of-type(1) {
+  display: block;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+
+
+section:nth-of-type(1) label:focus-within {
+  box-shadow: 0 0 0 .1em dodgerblue;
+}
+
+section:nth-of-type(1) label span {
+  width: 2em;
+  flex-shrink: 0;
+  color: midnightblue;
+  font-weight: bold;
+}
+
+/* @media screen and (max-width: 265px) {
+  .eenpagina main section form section label input {
+    min-width: 0px; */
+
+
+
+section:nth-of-type(1) label input {
+  flex-grow: 1;
+
+  width: 0;
+  min-width: 10em;
+  padding: .5em;
+
+  border: none;
+  outline: none;
+  font: inherit;
+}
+
+/* reisopties */
+section form section:nth-of-type(1),
+section form section:nth-of-type(2) {
+  width: 90%;
+  margin: 20px auto;
+}
+
+section form section:nth-of-type(1) label {
+  flex-grow: 1;
+
+  display: flex;
+  align-items: center;
+  padding: 0 1em;
+
+  background-color: white;
+  border-radius: .25em;
+}
+
+section form section:nth-of-type(2) {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+section form section:nth-of-type(2) article {
+  max-width: 120px;
+  min-width: 75px;
+  width: auto;
+  margin: 0.5em;
+  padding-bottom: 1em;
+  margin-left: 0;
+  box-shadow: inset 0 -3px 0 rgb(0 0 255 / 13%);
+}
+
+section form section:nth-of-type(2) article:nth-of-type(1) label,
+section form section:nth-of-type(2) article:nth-of-type(2) label {
+  color: black;
+  font-weight: normal;
+
+}
+
+section form section:nth-of-type(2) article:nth-of-type(1),
+section form section:nth-of-type(2) article:nth-of-type(2) {
+  display: flex;
+  align-items: center;
+}
+
+section form section:nth-of-type(2) article:nth-of-type(3),
+section form section:nth-of-type(2) article:nth-of-type(4),
+section form section:nth-of-type(2) article:nth-of-type(5) {
+  display: flex;
+  align-items: center;
+
+
+}
+
+section form section:nth-of-type(2) article img {
+  width: 2.5em;
+}
+
+section>form>section:nth-child(1)>label:nth-child(1)>img {
+  transform: rotate(90deg);
+}
+
+
+
+
+
+section form section:nth-of-type(2) article:active,
+section form section:nth-of-type(2) article:focus {
+  box-shadow: inset 0 -3px 0 var(--blauw);
+  outline: 1px dotted;
+  outline-offset: 3px;
+}
+
+section form section:nth-of-type(2) article:hover {
+  box-shadow: inset 0 -3px 0 var(--blauw);
+
+}
+
+
+
+
+
+
+/* section:nth-of-type(2) label:hover {
+	box-shadow:inset 0 -.25em midnightblue;
+} */
+
+.eenpagina section:nth-of-type(2) input {
+  /* hide accessible */
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  /* added line */
+  border: 0;
+}
+
+section:nth-of-type(2) input:focus+label {
+  box-shadow: inset 0 -.25em midnightblue;
+}
+
+/* input[type="text"]:placeholder-shown {
+  padding-left: 90px; */
+
+
+
+
+/******************************/
+/* INPUT FIELD FOTO <> */
+/******************************/
+
+
+
+
+.aanmeldingen p {
+  font-family: arial;
+  font-size: 1.2em;
+  color: var(--blauw);
+  font-weight: 200;
+  padding-left: 1em;
+  float: left;
+  display: flex;
+  flex-direction: row;
+  margin-top: -1em;
+}
+
+/******************************/
+/* FOTO MEISJE */
+/******************************/
+
+
+
+
+section:nth-of-type(3) img {
+  max-width: 95%;
+}
+
+.eenpagina section:nth-of-type(3) button {
+  border: none;
+  background-color: var(--geel);
+  border-radius: 0.25em;
+
+  font-family: Arial;
+  color: var(--blauw);
+  font-size: 16px;
+  font-weight: lighter;
+  padding: 1em 1.55em;
+  margin-left: 1.5em;
+  box-shadow: inset 0 -0.125rem 0 #ffb519;
+  margin-top: 1em;
+}
+
+
+.eenpagina section:nth-of-type(3) p:nth-of-type(1) {
+  color: var(--wit);
+  font-weight: 700;
+  text-shadow: 1px 1px 0 rgb(7 7 33 / 35%), 0 0 30px rgb(7 7 33 / 25%);
+  font-size: 1.8em;
+  font-family: Arial;
+  padding: 2em 0 0 .5em;
+}
+
+.eenpagina section:nth-of-type(3) p:nth-of-type(2) {
+  color: var(--wit);
+  font-weight: 400;
+  text-shadow: 1px 1px 0 rgb(7 7 33 / 35%), 0 0 30px rgb(7 7 33 / 25%);
+  font-size: 1.25em;
+  font-family: Arial;
+  padding: 0em 0 0 1em;
+}
+
+
+section.foto {
+  background-image: url("../images/reiziger-bekijkt-ns-app.jpeg");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 120px;
+  margin: 0 5px;
+}
+
+/******************************/
+/* MENU LINKBOVEN KNOP */
+/******************************/
+
+.menu {
+
+  position: relative;
+  bottom: 54em;
+
+
+  width: 3em;
+  height: 3em;
+  margin: 0;
+  padding: 1.5em 0 0;
+  font-size: 1em;
+  appearance: none;
+  border: none;
+  background-color: transparent;
+
+}
+
+.menu:focus {
+  border-radius: 4px;
+  border: 1px solid #0063d3;
+  box-shadow: 0 0 0 1px #0063d3, 0 2px 28px rgb(0 0 0 / 10%);
+}
+
+/* de streepjes */
+.menu span {
+
+  position: absolute;
+  left: .75em;
+
+  /* maten en een kleurtje */
+  width: 1.5em;
+  height: 1px;
+  background-color: var(--blauw);
+
+  transition: 0.5s cubic-bezier(0.175, 0.885, 0.320, 1.275);
+}
+
+.menu span:first-of-type {
+  top: .7em;
+}
+
+.menu span:nth-of-type(2) {
+  top: 1.1em;
+
+}
+
+.menu span:last-of-type {
+  top: 1.5em;
+  width: .75em;
+}
+
+
+
+body.menuOpen .menu span {
+
+  background-color: var(--blauw);
+
+  transition: .5s ease-out;
+}
+
+body.menuOpen .menu span:first-of-type {
+  transform: translatey(.4em) rotate(45deg);
+}
+
+body.menuOpen .menu span:nth-of-type(2) {
+
+  transform: rotate(-45deg);
+}
+
+body.menuOpen .menu span:last-of-type {
+  /* het tweede streepje wordt doorzichtig */
+  opacity: 0;
+}
+
+
+/******************************/
+/* SECTION VEELGEZOCHT */
+/******************************/
+
+section:nth-of-type(4) {
+
+  background-color: var(--wit);
+  margin: 10px 5px;
+  box-shadow: 0 0.125rem 0 0 rgb(7 7 33 / 15%);
+}
+
+h4 {
+  margin: 2em 1em;
+  font-weight: 400;
+  color: var(--blauw);
+  font-family: Arial;
+  font-size: 1.25rem;
+  display: inline;
+}
+
+section:nth-of-type(4) article img {
+  margin: 0.5em 1em;
+}
+
+section:nth-of-type(4) ul {
+  display: flex;
+  flex-direction: column;
+  margin: 1.5em 0 0 4em;
+}
+
+.eenpagina section:nth-of-type(4) ul li {
+  font-family: Arial;
+  color: var(--lichtBlauwButton);
+  font-size: 1em;
+  font-weight: normal;
+  list-style-type: none;
+  padding: 10px;
+
+  position: relative;
+  left: -4.5em;
+  top: -3em;
+}
+
+/******************************/
+/* VERTREK EN AANKOMST ARTICLE */
+/******************************/
+
+
+
+
+
+
+article:nth-of-type(2) button {
+
+  padding: .3em .5em 1em 1.7em;
+
+  appearance: none;
+  background-color: var(--geel);
+  border: none;
+
+  box-shadow: inset 0 -3px 0 rgba(0 0 255 / .125);
+
+  font-family: Arial;
+  color: var(--blauw);
+  font-size: 0.9em;
+  font-weight: normal;
+
+  width: 80%;
+
+
+
+}
+
+header>button.menu>p {
+  margin: 0.8em;
+
+  font-size: 12px;
+}
+
+/* label{
+
+  box-shadow:inset 0 -3px 0 rgba(0 0 255 / .125);
+} */
+
+
+/******************************/
+/* BACKGROUND IMAGES PLACEHOLDER */
+/******************************/
+
+
+article:nth-of-type(2) button:nth-of-type(1) {
+
+  background-image: url(../images/kalender.svg);
+  background-size: 2.8em auto;
+  background-repeat: no-repeat;
+  background-position: -0.6em center;
+}
+
+article:nth-of-type(2) button:nth-of-type(2) {
+
+  background-image: url(../images/Nuimgage.svg);
+  background-size: 2.8em auto;
+  background-repeat: no-repeat;
+  background-position: -.4em center;
+}
+
+article:nth-of-type(2) button:nth-of-type(3) {
+
+  background-image: url(../images/settingsicon.svg);
+  background-size: 2.8em auto;
+  background-repeat: no-repeat;
+  background-position: -0.6em center;
+}
+
+
+/******************************/
+/* BLAUWE BUTTON PLANNEN EN AANMELDEN */
+/******************************/
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav button {
+
+  background-color: var(--lichtBlauwButton);
+  appearance: none;
+  color: var(--wit);
+
+  border: none;
+  border-radius: 0.25em;
+  box-shadow: inset 0 -0.125rem 0 #004ba0;
+
+  padding: .625rem 3em;
+  font-size: 1.2em;
+  line-height: 1.5625rem;
+  margin-bottom: 2em;
+}
+
+nav button:focus,
+nav button:hover {
+  cursor: pointer;
+  box-shadow: inset 0 -3.125rem 0 #004ba0;
+
+}
+
+
+
+
+/******************************/
+/* VEELGEZCOHT + IMG VAN 3 MENSEN */
+/******************************/
+
+section:nth-of-type(4) article {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/******************************/
+/* KLANTENSERVICE SECTION */
+/******************************/
+
+section:nth-of-type(5) article {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+section:nth-of-type(5) {
+
+  background-color: var(--wit);
+  margin: 10px 5px;
+  box-shadow: 0 0.125rem 0 0 rgb(7 7 33 / 15%);
+}
+
+h5 {
+  margin: 2em 1em;
+  font-weight: 400;
+  color: var(--blauw);
+  font-family: Arial;
+  font-size: 1.25rem;
+  display: inline;
+}
+
+/* section:nth-of-type(5) article img{
+    margin:0.5em 1em;
+} */
+
+section:nth-of-type(5) ul {
+  display: flex;
+  flex-direction: column;
+  margin: 1.5em 0 0 4em;
+}
+
+section:nth-of-type(5) ul li {
+  font-family: Arial;
+  color: var(--lichtBlauwButton);
+  font-size: 1em;
+  font-weight: normal;
+  list-style-type: none;
+  padding: 10px;
+
+  position: relative;
+  left: -4.5em;
+  top: -3em;
+}
+
+
+/******************************/
+/* PRODUCTEN SECTION */
+/******************************/
+
+
+
+section:nth-of-type(6) article {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+section:nth-of-type(6) {
+
+  background-color: var(--wit);
+  margin: 10px 5px;
+  box-shadow: 0 0.125rem 0 0 rgb(7 7 33 / 15%);
+}
+
+h6 {
+  margin: 2em 1em;
+  font-weight: 400;
+  color: var(--blauw);
+  font-family: Arial;
+  font-size: 1.25rem;
+  display: inline;
+}
+
+section:nth-of-type(6) article img {
+  margin: 0.5em 1em;
+}
+
+section:nth-of-type(6) ul {
+  display: flex;
+  flex-direction: column;
+  margin: 1.5em 0 0 4em;
+}
+
+section:nth-of-type(6) ul li {
+  font-family: Arial;
+  color: var(--lichtBlauwButton);
+  font-size: 1em;
+  font-weight: normal;
+  list-style-type: none;
+  padding: 10px;
+
+
+  position: relative;
+  left: -4.5em;
+  top: -3em;
+}
+
+/******************************/
+/* FOOTER */
+/******************************/
+
+
+
+footer {
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+footer {
+  position: relative;
+  background-color: var(--wit);
+  margin: 10px 5px;
+  box-shadow: 0 0.125rem 0 0 rgb(7 7 33 / 15%);
+}
+
+
+
+footer img {
+  position: absolute;
+  right: 1em;
+  top: 1em;
+}
+
+footer ul {
+  display: flex;
+  flex-direction: column;
+
+}
+
+footer ul li {
+  font-family: Arial;
+  color: var(--footertekst);
+  font-size: 1em;
+  font-weight: normal;
+  list-style-type: none;
+  padding: 10px;
+
+}
+
+
+/******************************/
+/* UW MENING BLAUW */
+/******************************/
+
+nav img {
+  position: absolute;
+  top: 11em;
+  right: 5px;
+}
+
+
+/******************************/
+/* 2DE WEBSITE */
+/******************************/
+
+.tweedepagina {
+  background-color: var(--grijsAchtergrond);
+  margin: 0;
+  padding: 0;
+
+}
+
+.tweedepagina section:nth-of-type(1) {
+  padding: 1em 0.5em;
+
+}
+
+.tweedepagina section:nth-of-type(1) .keuzehulp {
+  display: flex;
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 2%), 0 4px 8px 0 rgb(0 0 0 / 2%), 0 8px 1rem 0 rgb(0 0 0 / 2%);
+  border-radius: 0.5rem;
+  border: 0.0625rem solid #e6e6e9;
+  padding: 1.25em;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+
+
+
+
+
+
+.keuzehulp img:nth-of-type(1) {
+  height: 3.125em;
+  width: 3.75em;
+}
+
+.keuzehulp img:nth-of-type(2) {
+  height: 0.9375em;
+}
+
+.tweedepagina section:nth-of-type(1) article.keuzehulp p {
+  position: initial;
+
+
+}
+
+
+.tweedepagina section:nth-of-type(1) article.keuzehulp p:nth-of-type(1) {
+  position: initial;
+  color: var(--blauw);
+  font-weight: 700;
+  font-size: 1.2em;
+}
+
+.tweedepagina section:nth-of-type(1) article.keuzehulp p:nth-of-type(2) {
+  position: initial;
+  color: var(--blauw);
+
+  font-size: 1em;
+}
+
+main>section:nth-child(2)>p:nth-child(1) {
+  color: grey;
+}
+
+
+
+
+
+
+
+.tweedepagina section:nth-of-type(1) {
+  background-color: var(--wit);
+
+  box-shadow: 0 0.125rem 0 0 rgb(7 7 33 / 15%);
+  margin-top: -1.5em;
+
+}
+
+
+h1 {
+  margin-top: -0.2em;
+  color: var(--blauw);
+  font-size: 2em;
+  font-weight: 700;
+  font-family: arial;
+}
+
+
+
+
+
+/******************************/
+/* 2DE SECTION */
+/******************************/
+
+h2 {
+  font-weight: 700;
+  font-family: arial;
+  font-size: 2em;
+  line-height: 2.5rem;
+  margin: 0.5em 0 1em 0.5em;
+  color: var(--blauw);
+}
+
+.tweedepagina .basiskorting article {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.tweedepagina .basiskorting article p:nth-of-type(1) {
+
+
+  font-weight: 700;
+  font-family: arial;
+  font-size: 1em;
+  color: var(--blauw);
+}
+
+.tweedepagina .basiskorting article p:nth-of-type(2) {
+
+  font-weight: 700;
+  font-family: arial;
+  font-size: 1em;
+  color: var(--blauw);
+}
+
+
+.tweedepagina .basiskorting {
+
+  background-color: var(--wit);
+  margin: 10px 15px;
+  box-shadow: 0 0.125rem 0 0 rgb(7 7 33 / 15%);
+  height: 25em;
+  border-radius: 0.5em;
+}
+
+.tweedepagina .basiskorting article {
+  display: flex;
+}
+
+.tweedepagina .basiskorting ul {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0%;
+}
+
+.tweedepagina .basiskorting ul li {
+  font-family: Arial;
+  color: var(--footertekst);
+  font-size: 1em;
+  font-weight: normal;
+  list-style-type: none;
+  padding: 10px;
+
+
+}
+
+.basiskorting {
+
+  padding: 2em;
+}
+
+/* .tweedepagina section:nth-of-type(2) label {
+  display: flex;
+  justify-content: center;
+  width: 5em;
+  font-family: arial;
+  font-size: 1.3em;
+  text-decoration: none !important;
+  width: 1.25em;
+  margin-left: 20px;
+} */
+
+input[type='checkbox'] {
+  background: transparent;
+  border: .0625rem solid #cdcdd3;
+  border-radius: .125rem;
+  transform: scale(2);
+
+}
+
+.basiskorting button {
+  display: block;
+  margin: 2em auto;
+
+  background-color: var(--geel);
+  appearance: none;
+  color: var(--blauw);
+  border: none;
+  border-radius: 0.25em;
+  box-shadow: inset 0 -0.125rem 0 var(--geel);
+  padding: .625rem 1.4em;
+  font-size: 1.2em;
+  line-height: 1.5625rem;
+}
+
+.basiskorting label {
+  display: flex;
+  justify-content: center;
+  font-size: 1.4em;
+}
+
+.basiskorting input {
+
+  margin-left: 1em;
+}
+
+body>main>section:nth-child(2)>p:nth-child(3) {
+
+  color: var(--blauw);
+}
+
+
+
+/******************************/
+/* 3DE SECTION WEEKEND VOORDEEL */
+/******************************/
+
+
+
+
+
+/******************************/
+/* FOOTER */
+/******************************/
+
+
+
+footer {
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+.tweedepagina footer {
+
+  background-color: var(--wit);
+  margin: 10px 15px;
+  box-shadow: 0 0.125rem 0 0 rgb(7 7 33 / 15%);
+  border-radius: 0.5em;
+}
