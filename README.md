@@ -1,5 +1,5 @@
 # Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
+Markdown is een simpele manier om HTML te schrijven.
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
@@ -23,7 +23,7 @@ De blauwe piste
 
 #### Je focus:
 Helemaal responsive maar weet dit nog niet zeker want weet nog niet zo goed want ze allebei inhouden
- 
+
 </details>
 
 
@@ -38,14 +38,14 @@ Helemaal responsive maar weet dit nog niet zeker want weet nog niet zo goed want
 ### Je opdracht:
 Ik ga de website van de NS maken.
 
-#### Screenshot(s) van de eerste pagina (small screen): 
-https://www.ns.nl/ 
+#### Screenshot(s) van de eerste pagina (small screen):
+https://www.ns.nl/
 <img src="images/Screenshot 2021-09-08 at 10.36.32.png" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-https://www.ns.nl/  
+https://www.ns.nl/
 <img src="images/Screenshot 2021-09-08 at 10.34.10.png" width="375px" alt="omschrijving van de pagina">
- 
+
 </details>
 
 
@@ -57,13 +57,13 @@ https://www.ns.nl/
 <details>
 <summary>We hebben in de les de breakdownschets gemaakt en eerst dacht ik dat het onnodig werk was en dat ik alle HTML wil uit mijn hoofd wist en dat het zonde van mijn tijd was. Maar nadat ik de schets heb gemaakt zijn dingen voor mij veel duidelijker geworden en de schets heeft me geholpen om een begin te maken aan mijn HTML schrijven.</summary>
 
-### de hele pagina: 
+### de hele pagina:
 <img src="images/FRONTED- DEVELOPMENT.png" width="375px" alt="breakdown van de hele pagina">
 
-### dynamisch deel (bijv menu): 
+### dynamisch deel (bijv menu):
 <img src="images/FRONTED- DEVELOPMENT.png" width="375px" alt="breakdown van een dynamisch deel">
 
-### wellicht nog een dynamisch deel (bijv filter): 
+### wellicht nog een dynamisch deel (bijv filter):
 
 
 </details>
@@ -80,7 +80,7 @@ https://www.ns.nl/
  Dit is een foto van mijn Humpty die totaal niet lukte waar ik ook veel stress kreeg van thuis. :)
  Gellukig kon ik in de les meedoen met de uitwerkingen en is hij zo mij toch wel gelukt.
 
- 
+
  </summary>
 
 ### Stand van zaken
@@ -102,11 +102,11 @@ samen met je groepje opstellen
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
 - Het eerste punt van wat ik heb meegenomen van de meeting was dat ik de opdracht niet goed snapte en de html moet kloppen en sommige buttons ook echt moeten werken en niet alleen maar een image zijn.
- 
+
 - Het tweeede punt is dat ik geleerd heb hoe ik de textje goed onder het icoontje te plaatsen zonder gebruik te maken van postition:fixed.
- 
+
 - Het derde punt van wat ik heb meegenomen is dat is mijn menu button ook echt moet laat transformeren als je erop klikt net zoals het in het echt zo is. Sanne had een hele codepen waar alle CSS en JS is staat om dat menu goed te laten tranformen wat toch wel heel erg handig is voor mij :).
- 
+
 - Ook heb ik meegenomen uit de meeting dat je alle lengtes in em moet zetten omdat je dan het goed mee kan schalen.
 
 </details>
@@ -165,13 +165,13 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 
 
 #### Kleurenblind & Slecht ziende test
- 
- Met deze test merkte ik eigenlijk heel weinig verschil. Waarschijnlijk komt dat ook omdat ik natuurlijk niet echt kleurenblind of slechtziend ben maar alleen alsof doe met de brillen op. Ik merkte wel dat het iets moeilijker was om bepaalde focus en active states te zien omdat dat natuurlijk kleine verschillen zijn. Dus misschien een bevinding die ik hieruit kan halen is dat ik de active state en andere states extra duidelijk maak voor de gebruiker zodat ook slechtziende en kleurenblinden de verschillen tussen states kunnen zien 
+
+ Met deze test merkte ik eigenlijk heel weinig verschil. Waarschijnlijk komt dat ook omdat ik natuurlijk niet echt kleurenblind of slechtziend ben maar alleen alsof doe met de brillen op. Ik merkte wel dat het iets moeilijker was om bepaalde focus en active states te zien omdat dat natuurlijk kleine verschillen zijn. Dus misschien een bevinding die ik hieruit kan halen is dat ik de active state en andere states extra duidelijk maak voor de gebruiker zodat ook slechtziende en kleurenblinden de verschillen tussen states kunnen zien
 
 
 
 #### Screen reader Test
- 
+
  Deze test snapte ik eerst niet maar uiteindelijk bleek hij toch wel handig te zijn. Ik heb geleerd wat bijv. alt betekent dat achter een element staat want daar keek ik nooit van op. Maar nu weet ik dus dat ik die goed moet invullen zodat de screenreaders het duidelijk voor kunnen lezen, dus dat was mijn bevinding uit deze test.
 
 
@@ -196,7 +196,7 @@ samen met je groepje opstellen
 
 Student 1 (ik):
  Ik vroeg me af wat voor HTML & CSS ik kon gebruiken bij een bepaald stukje voor mijn website. Ook gebruikt mijn site een soort van lichte schaduw over een van de img heen en ik ben benieuwd hoe ik dat kan namaken.
- 
+
  Student 2:
 
 
@@ -213,7 +213,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 
 
- 
+
 ## Eindgesprek (week 5)
 
 <details open>
@@ -221,16 +221,17 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 Bijv. een van de stukjes waar ik uren lang mee aan het kloten was het stukje wat je ziet van de foto hiernaast.Ik kreeg ze niet goed naastelkaar en onderelkaar en ook de schaduw werkte de hele tijd niet mee. <img src="images/vertrekenaankomst.png" width="375px" alt="">
- 
- Waar ik wel dan blij mee ben is de vormgeving van de mijn 2de pagina, eerst wist ik niet waar ik moest beginnen maar toen ik eraan begon ging het best prima en lijkt het ook nog is best wel erg op de pagina van de NS. <img src="images/2destie.png" width="375px" alt=""> 
+
+ Waar ik wel dan blij mee ben is de vormgeving van de mijn 2de pagina, eerst wist ik niet waar ik moest beginnen maar toen ik eraan begon ging het best prima en lijkt het ook nog is best wel erg op de pagina van de NS. <img src="images/2destie.png" width="375px" alt="">
 
 ### Screenshot(s)
 <img src="images/Site1Deel1.png" width="375px" alt="">                       <img src="images/Site2Deel1.png" width="375px" alt="">
  <img src="images/Site1Deel2.png" width="375px" alt="">                      <img src="images/Site2Deel2.png" width="375px" alt="">
- 
- 
 
- 
+
+HER:
+Ik ben erg blij op mijn progressie dat ik heb gemaakt tijdens mijn herkansing, hiervoor deed ik eigenlijk maar wat en positioneerde ik alles met postion fixed en absolute waardoor niks responsive was, nu heb ik dat veranderd en veel meer flexbox gebruikt waardoor alles veel beter responsive was.
+
 
 </details>
 
